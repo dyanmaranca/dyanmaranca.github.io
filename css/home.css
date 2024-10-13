@@ -219,3 +219,19 @@ legend {
     font-style: normal;
     color: white;
 }
+
+.policy {
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+    width: 60%;
+    margin: auto;
+}
+
+.policy a {
+    text-decoration: none;
+    color: #879C69;
+}
