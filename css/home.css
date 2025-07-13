@@ -1,4 +1,4 @@
-.container {
+html, .container {
     background-color: #202338;
     width: 100%;
 }
@@ -281,7 +281,13 @@ legend {
         grid-column: 1/ 2;
         margin: 20px;
     }
-
+footer {
+    display: grid;
+    grid-template-columns: 2fr 4fr 1fr;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
 footer img {
     height: 20px;
 }
