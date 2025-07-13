@@ -261,6 +261,7 @@ legend {
         grid-column: 1/ 2;
         background: #879C69;
         width: 300px;
+        border-radius: 20px;
     }
 
     #bar2 > p, #bar2 > h2 {
@@ -270,16 +271,19 @@ legend {
         grid-row: 3/ 4;
         grid-column: 1/ 2;
         margin: 20px;
+        border-radius: 20px;
     }
     #about {
         grid-row: 4/ 5;
         grid-column: 1/ 2;
         margin: 20px;
+        border-radius: 20px;
     }
     #tools {
         grid-row: 5/ 6;
         grid-column: 1/ 2;
         margin: 20px;
+        border-radius: 20px;
     }
 footer {
     display: grid;
