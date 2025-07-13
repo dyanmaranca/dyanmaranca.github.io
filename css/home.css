@@ -284,8 +284,6 @@ legend {
 footer {
     display: grid;
     grid-template-columns: 2fr 4fr 1fr;
-    left: 0;
-    bottom: 0;
 }
 footer img {
     height: 20px;
