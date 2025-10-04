@@ -236,6 +236,16 @@ legend {
     color: #879C69;
 }
 
+.download {
+    display: flex;
+    flex-direction: column;
+}
+
+.download > a > img {
+    width: 200px;
+    margin: 20px;
+}
+
 @media screen and (max-width: 900px) {
     #bar1, #bar3 {
         display: none;
