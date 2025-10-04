@@ -295,11 +295,15 @@ legend {
         margin: 20px;
         border-radius: 20px;
     }
-footer {
-    display: grid;
-    grid-template-columns: 2fr 4fr 1fr;
-}
-footer img {
-    height: 20px;
-}
+    footer {
+        display: grid;
+        grid-template-columns: 2fr 4fr 1fr;
+    }
+    footer img {
+        height: 20px;
+    }
+    form {
+        width: 90%;
+    }
+
 }
