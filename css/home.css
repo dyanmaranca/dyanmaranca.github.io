@@ -306,7 +306,7 @@ legend {
         width: 90%;
     }
     .field input, .field textarea {
-    width: 100%;
+    width: 80%;
     padding: 1em; 
     font-size: 1rem; 
 }
